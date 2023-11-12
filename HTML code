@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audisankara Institute of Technology</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- You can link additional CSS or JavaScript files here -->
+</head>
+<body>
+
+    <header>
+        <h1>Audisankara Institute of Technology</h1>
+    </header>
+
+    <section>
+        <h2>Welcome to our Institute</h2>
+        <p>This is a brief description of our institute.
+            Audisankara is committed to provide high quality education through classroom teaching, practical training, and by providing excellent infrastructure and experience. The Institute fulfils all the norms specified by the statutory bodies in terms of land requirement, instructional, administrative and amenities area. Audisankara is spread over 10.56 acres with a total built up Area-38974.24 Sq.Mts. The college houses spacious and sufficient classrooms, seminar halls state of the art auditorium and conclaves. The high performance buildings in the campus are thermally, visually and acoustically comfortable; energy, material and water efficient; safe and secure; easy to maintain and operate. The entire campus is under CCTV surveillance for safety and security purpose..</p>
+        <!-- Add more content as needed -->
+
+        <p>Contact us: AudisankaraInstitute@gmail.com</p>
+    </section>
+
+    <footer>
+        &copy; 2023 Audisankara Institute of Technology
+    </footer>
+
+</body>
+</html>
